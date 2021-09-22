@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slide!"
 ---
-Yash File
+Yash Pokiya
 Use the left arrow to go back!
