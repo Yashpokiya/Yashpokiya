@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashpokiya
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ysauik
+- 💞️ I’m looking to collaborate on yasmin : Battery:
 - 📫 How to reach me ...
